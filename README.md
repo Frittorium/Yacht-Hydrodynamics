@@ -8,7 +8,7 @@ with residuary resistance per unit weight of displacement as the regression targ
 The goal is to predict hydrodynamic resistance from hull geometry, which is useful
 early in vessel design before physical testing is feasible.
 
-## What Was Done
+## Methodology
 - Loaded and explored the dataset with descriptive statistics, feature distributions,
   a correlation matrix, and a Froude number vs. resistance scatter plot.
 - Preprocessed with an 80/20 train/test split and StandardScaler (fitted on train only).
